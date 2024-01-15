@@ -16,6 +16,7 @@ Explore in-depth trends, including:
   - Top 10 number of people killed by target type
   - And many more...
 ![Report Image 2](img/Report%20Image%202.PNG)
+<br>
 ![Report Image 3](img/Report%20Image%203.PNG)
 
 
