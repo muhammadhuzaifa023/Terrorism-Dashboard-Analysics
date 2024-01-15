@@ -30,4 +30,31 @@ Explore in-depth trends, including:
   <img src="img/Report%20Image%204.PNG" alt="Report Image 4">
 </p>
 
+## How to Use
+
+To utilize this Power BI dashboard effectively, follow these steps:
+
+1. **Prerequisites**: Ensure you have Power BI Desktop installed on your local machine.
+
+2. **Data Source**: Open the provided Power BI project file (`Analytics_Dashboard.pbix`) and configure it to connect to your Analytics data source.
+
+3. **Data Refresh**: Set up data refresh schedules to keep the dashboard up-to-date with the latest information.
+
+4. **Interact with Visualizations**: Navigate through the visualizations, apply filters, and harness the power of your Analytics data to make informed decisions.
+
+## Feedback and Contributions
+
+We actively encourage feedback and contributions to enhance this dashboard. Feel free to submit issues or pull requests, and collaborate with us to improve and expand its capabilities.
+
+## License
+
+This project is licensed under the MIT License. For complete details, consult the [LICENSE](LICENSE) file.
+
+## Author
+
+- [Muhammad Huzaifa](https://github.com/muhammadhuzaifa023)
+
+## Acknowledgments
+
+Special acknowledgments to the vibrant Power BI community for their support and invaluable resources that have contributed to the development of this analytics dashboard.
 
