@@ -15,6 +15,6 @@ Explore in-depth trends, including:
   - Top terrorist groups by their number of kills
   - Top 10 number of people killed by target type
   - And many more...
-<br>
 ![Report Image 2](img/Report%20Image%202.PNG)
+
 
