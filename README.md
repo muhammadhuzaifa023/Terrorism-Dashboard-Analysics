@@ -4,6 +4,7 @@ Welcome to the Terrorism Dashboard Analytics project! 🌐 This repository hosts
 ## Key Features
  ### 🏠 Home Page:
  An intuitive starting point for navigating the Terrorism Dashboard Analytics project.
+ <br/>
  ![Report Image 1](img/Report%20Image%201.PNG)
 
  
