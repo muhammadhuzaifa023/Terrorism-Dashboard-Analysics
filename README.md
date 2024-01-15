@@ -24,5 +24,10 @@ Explore in-depth trends, including:
 <p align="center">
   <img src="img/Report%20Image%203.PNG" alt="Report Image 3">
 </p>
+<p style="margin-bottom: 20px;" align="center"></p>
+
+<p align="center">
+  <img src="img/Report%20Image%204.PNG" alt="Report Image 4">
+</p>
 
 
