@@ -7,7 +7,8 @@ Welcome to the Terrorism Dashboard Analytics project! 🌐 This repository hosts
  ![Report Image 1](img/Report%20Image%201.PNG)
 
  
-- **Statistics Pages:** Explore in-depth trends, including:
+### 📈 Statistics Page:
+Explore in-depth trends, including:
   - Top hostages by country
   - Top terrorist groups by their number of kills
   - Top 10 number of people killed by target type
