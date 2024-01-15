@@ -36,7 +36,7 @@ To utilize this Power BI dashboard effectively, follow these steps:
 
 1. **Prerequisites**: Ensure you have Power BI Desktop installed on your local machine.
 
-2. **Data Source**: Open the provided Power BI project file (`Analytics_Dashboard.pbix`) and configure it to connect to your Analytics data source.
+2. **Data Source**: Open the provided Power BI project file (`Terrorism Report.pbix`) and configure it to connect to your Analytics data source.
 
 3. **Data Refresh**: Set up data refresh schedules to keep the dashboard up-to-date with the latest information.
 
@@ -46,9 +46,9 @@ To utilize this Power BI dashboard effectively, follow these steps:
 
 We actively encourage feedback and contributions to enhance this dashboard. Feel free to submit issues or pull requests, and collaborate with us to improve and expand its capabilities.
 
-## License
 
-This project is licensed under the MIT License. For complete details, consult the [LICENSE](LICENSE) file.
+## Contact
+For any questions or feedback, feel free to reach out to us at [muhammadhuzaifa023@email.com].
 
 ## Author
 
