@@ -4,7 +4,8 @@ Welcome to the Terrorism Dashboard Analytics project! 🌐 This repository hosts
 ## Key Features
  ### 🏠 Home Page:
  An intuitive starting point for navigating the Terrorism Dashboard Analytics project.
- 
+ ![Report Image 1](Terrorism-Dashboard-Analysics/img/Report%20Image%201.PNG)
+
  
 - **Statistics Pages:** Explore in-depth trends, including:
   - Top hostages by country
