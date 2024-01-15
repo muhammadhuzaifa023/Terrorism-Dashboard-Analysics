@@ -48,7 +48,7 @@ We actively encourage feedback and contributions to enhance this dashboard. Feel
 
 
 ## Contact
-For any questions or feedback, feel free to reach out to us at [muhammadhuzaifa023@email.com].
+For any questions or feedback, feel free to reach out to us at [muhammadhuzaifa023@gmail.com].
 
 ## Author
 
