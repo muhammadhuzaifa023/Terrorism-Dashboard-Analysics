@@ -17,3 +17,4 @@ Explore in-depth trends, including:
   - And many more...
 <br>
 ![Report Image 2](img/Report%20Image%202.PNG)
+
